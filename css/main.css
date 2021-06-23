@@ -2964,3 +2964,6 @@ blockquote {
 .center {
   margin-top: 20px;
 }
+.img-dave {
+  width: 100% !important;
+}
